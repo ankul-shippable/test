@@ -3,9 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: ranjan_github
-      path: ranjansingh41/test
-      sha: npmtest.yml
-      
+      path: ranjansingh41/test      
   - name: npm_build_info
     type: BuildInfo
     configuration:
